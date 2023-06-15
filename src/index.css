@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header  {
+  margin-bottom: 13px;
+  position: sticky;
+  top: 0;
+}
